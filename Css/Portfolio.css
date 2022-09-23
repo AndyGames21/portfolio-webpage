@@ -75,3 +75,50 @@ h1,h2{
 .nav-list a:hover{
     background: #45567d;
 }
+.projects{
+    text-align: center;
+    padding: 10rem 2rem;
+    background:#45567d;
+    
+}
+
+h2{
+    font-size: 4.2rem;
+    text-decoration: underline;
+}
+.project-holder{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-gap: 4rem;
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
+    margin-bottom: 6rem;
+}
+img{
+    display: block;
+    width: 100%;
+    height: calc(100% - 6.8rem);
+    width: 100%;
+    object-fit: cover;
+}
+.project{
+    background: #303841;
+    box-shadow: 1px 1px 2px rgb(0 0 0 / 50%);
+    border-radius: 2px;
+}
+.showall{
+    font-size: 2rem;
+    background:#303841;
+    transition: background 0.3s ease-out;
+    display: inline-block;
+  padding: 1rem 2rem;
+  border-radius: 2px;
+}
+.showall:hover{
+    transform: translateX(2px);
+    margin-left: 10px;
+    transform: translateX(0);
+    transition: transform 0.3s ease-out;
+    color: #be3144;
+}
