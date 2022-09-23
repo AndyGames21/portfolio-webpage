@@ -16,7 +16,7 @@ a{
     color: #f0f0f0;
 }
 header{
-    background-color: #be3144;
+    background-color:#45567d;
 }
 ul{
     list-style: none;
@@ -32,7 +32,7 @@ ul{
     top: 0;
     left: 0;
     width: 100%;
-    background: #be3144;
+    background: #45567d;
 }
 
 li a{
@@ -66,7 +66,7 @@ h1{
     font-size: 3rem;
     font-weight: 200;
     font-style: italic;
-    color: #be3144;
+    color: #45567d;
 }
 h1,h2{
     font-family: 'Raleway', sans-serif;
@@ -74,12 +74,12 @@ h1,h2{
     text-align: center
 }
 .nav-list a:hover{
-    background: #45567d;
+    background: #be3144;
 }
 .projects{
     text-align: center;
     padding: 10rem 2rem;
-    background:#45567d;
+    background:#be3144;
     
 }
 
@@ -167,7 +167,7 @@ footer {
     justify-content: space-evenly;
     padding: 2rem;
     background: #3a3d40;
-    border-top: 4px solid #be3144;
+    border-top: 4px solid #45567d;
 }
 footer > p{
     margin: 2rem;
