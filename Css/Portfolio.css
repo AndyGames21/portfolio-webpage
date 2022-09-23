@@ -16,7 +16,8 @@ a{
     color: #f0f0f0;
 }
 header{
-    background-color:#45567d;
+    background-color:#181719;
+    background-image: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
 }
 ul{
     list-style: none;
@@ -32,7 +33,7 @@ ul{
     top: 0;
     left: 0;
     width: 100%;
-    background: #45567d;
+    background: #181719;
 }
 
 li a{
@@ -56,8 +57,7 @@ body {
     align-items: center;
     width: 100%;
     height: 100vh;
-    background-color: #000;
-    background-image: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
+    background-color:#45567d;
 }
 h1{
     font-size: 6rem;
@@ -66,7 +66,7 @@ h1{
     font-size: 3rem;
     font-weight: 200;
     font-style: italic;
-    color: #45567d;
+    color: #181719;
 }
 h1,h2{
     font-family: 'Raleway', sans-serif;
