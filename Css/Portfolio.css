@@ -122,3 +122,22 @@ img{
     transition: transform 0.3s ease-out;
     color: #be3144;
 }
+.contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    height: 80vh;
+    padding: 0 2rem;
+    background:#3a3d40;
+    
+}
+.welcometocontact{
+    text-decoration: none;
+    font-size: 6rem;
+}
+.contact-holder > p{
+    font-style: italic;
+}
