@@ -13,11 +13,10 @@ html{
 }
 a{
     text-decoration: none;
-    color: #f0f0f0;
+    color: #be3144;
 }
 header{
-    background-color:#181719;
-    background-image: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
+    background-color:#f0f0f0;
 }
 ul{
     list-style: none;
@@ -33,14 +32,14 @@ ul{
     top: 0;
     left: 0;
     width: 100%;
-    background: #181719;
+    background: #f0f0f0;
 }
 
 li a{
     display: block;
     font-size: 2.2rem;
     padding: 2rem;
-    color: #f0f0f0;
+    color: #be3144;
     text-decoration: none;
 }
 body {
@@ -57,10 +56,11 @@ body {
     align-items: center;
     width: 100%;
     height: 100vh;
-    background-color:#45567d;
+    background-color:#f0f0f0;
 }
 h1{
     font-size: 6rem;
+    color: #be3144;
 }
 .welcome > p{
     font-size: 3rem;
@@ -74,12 +74,12 @@ h1,h2{
     text-align: center
 }
 .nav-list a:hover{
-    background: #be3144;
+    background:#3a3d40;
 }
 .projects{
     text-align: center;
     padding: 10rem 2rem;
-    background:#be3144;
+    background:#45567d;
     
 }
 
@@ -117,7 +117,7 @@ img{
   border-radius: 2px;
 }
 .showall:hover{
-    background: #be3144;
+    background: #f0f0f0;
     transform: translateX(2px);
     margin-left: 10px;
     transform: translateX(0);
