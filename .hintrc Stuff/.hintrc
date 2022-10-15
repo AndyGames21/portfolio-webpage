@@ -8,7 +8,13 @@
     "not ios_saf <= 14.8"
   ],
   "hints": {
+    "disown-opener": "off",
     "meta-viewport": "off",
-    "disown-opener": "off"
+    "axe/language": [
+      "default",
+      {
+        "html-has-lang": "off"
+      }
+    ]
   }
 }
