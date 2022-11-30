@@ -6,4 +6,4 @@
 
 ***Then Download this repo and open the zip, afterwards open the folder on vs code and go to task 8.0.html***
 
-**Then Go To localhost:5000 or 5001 and view**
+**Then Click Go Live and go to localhost:5000 or 5001 if your not redirected automatically**
