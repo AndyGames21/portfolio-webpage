@@ -44,6 +44,7 @@ body {
     font-size: 1.8rem;
     font-weight: 400;
     line-height: 1.4;
+    width: 100%;
     color: #f0f0f0;
 }
 .welcome{
